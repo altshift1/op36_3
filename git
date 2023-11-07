@@ -6,3 +6,7 @@ git remote add origin link - 1 раз связать репозиторий с �
 git add .
 git commit -m 'lesson2'
 git push origin master/main
+
+
+git rm --cached namefile
+git rm --cached -r namedir
