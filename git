@@ -1,0 +1,8 @@
+git init-1 раз это коннект
+git remote add origin link - 1 раз связать репозиторий с проектом
+
+.gitignore
+
+git add .
+git commit -m 'lesson2'
+git push origin master/main
